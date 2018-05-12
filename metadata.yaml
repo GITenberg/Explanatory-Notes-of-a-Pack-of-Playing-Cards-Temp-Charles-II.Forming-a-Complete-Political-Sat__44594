@@ -1,0 +1,29 @@
+_repo: Explanatory-Notes-of-a-Pack-of-Playing-Cards-Temp-Charles-II.Forming-a-Complete-Political-Sat__44594
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44594-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Goldsmid, Edmund
+    alias: Goldsmid, Edmund Marsden
+    gutenberg_agent_id: '2022'
+    url: http://www.gutenberg.org/2009/agents/2022
+description: ''
+gutenberg_issued: '2014-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44594'
+  lccn: 09006353
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- Comic books, strips, etc.'
+- !lcsh 'Playing cards'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- History -- Commonwealth and Protectorate, 1649-1660'
+title: "Explanatory Notes of a Pack of Cavalier Playing Cards, Temp. Charles II.\r\
+  \nForming a Complete Political Satire of the Commonwealth"
+url: http://www.gutenberg.org/ebooks/44594

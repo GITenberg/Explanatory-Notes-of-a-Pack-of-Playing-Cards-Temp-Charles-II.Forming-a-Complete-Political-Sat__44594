@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '2022'
     url: http://www.gutenberg.org/2009/agents/2022
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44594#Explanatory-Notes-of-a-Pack-of-Playing-Cards-Temp-Charles-II.Forming-a-Complete-Political-Sat_
 gutenberg_issued: '2014-01-05'
 gutenberg_type: Text
 identifiers:
